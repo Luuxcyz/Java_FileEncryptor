@@ -135,3 +135,4 @@ class FileEncryptorFrame extends JFrame {
         });
     }
 }
+
