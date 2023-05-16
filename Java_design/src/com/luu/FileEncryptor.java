@@ -14,6 +14,7 @@ import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;
 
+
 public class FileEncryptor {
     private static final String AES = "AES"; // 使用 AES 算法加密
     private static final String PASSWORD = "your_password_here"; // 加密和解密时使用的密码
