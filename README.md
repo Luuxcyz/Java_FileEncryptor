@@ -1,4 +1,4 @@
-
+[中文](https://github.com/Luuxcyz/Java_FileEncryptor/blob/main/README.zh_CN.md)
 # FileEncryptor
 
 FileEncryptor is a simple Java program that can encrypt and decrypt files using the AES encryption algorithm. The program provides a graphical user interface (GUI) that allows the user to select one or more files to encrypt/decrypt, and displays the progress of the operation using a progress bar.
